@@ -3,7 +3,7 @@ import theme from '@nuxt/content-theme-docs'
 export default theme({
   target: 'static',
   router: {
-    base: '/yieldster-automation-platform-docs/'
+    base: '/nxtYAPdocs/'
   },
   docs: {
     primaryColor: '#38D4FF'
